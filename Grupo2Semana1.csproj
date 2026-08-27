@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Bisiesto.cs" />
+=======
+    <Compile Include="Ejercicio1.cs" />
+>>>>>>> cc54d19aec4147a377033dcabc52bf9a10a8d65b
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

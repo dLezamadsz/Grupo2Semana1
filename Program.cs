@@ -10,6 +10,8 @@ namespace Grupo2Semana1
     {
         static void Main(string[] args)
         {
+           Ejercicio1 ejercicio1 = new Ejercicio1();
+            ejercicio1.Execute();
         }
     }
 }
