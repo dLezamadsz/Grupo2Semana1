@@ -10,8 +10,8 @@ namespace Grupo2Semana1
     {
         static void Main(string[] args)
         {
-           Switch menu = new Switch();
-            menu.Seleccionar();
+            MenuPrincipal menuPrincipal = new MenuPrincipal();
+            menuPrincipal.Seleccionar();
         }
     }
 }
