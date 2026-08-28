@@ -19,7 +19,6 @@ namespace Grupo2Semana1
             switch (numero)
             {
                 case 1:
-                    
                     Ejercicio1 ejercicio1 = new Ejercicio1();
                     ejercicio1.Execute();
                     break;
