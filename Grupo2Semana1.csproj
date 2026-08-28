@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bisiesto.cs" />
+    <Compile Include="TrianguloArea.cs" />
     <Compile Include="Ejercicio1.cs" />
     <Compile Include="Ejercicio4.cs" />
     <Compile Include="Program.cs" />
